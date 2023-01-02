@@ -11,7 +11,6 @@ import java.util.List;
 
 @RestController
 public class AddressController {
-
     @Autowired
     private AddressRepository addRepository;
 
